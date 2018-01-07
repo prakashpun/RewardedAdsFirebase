@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1081477046632",
+    "firebase_url": "https://rewardedadstutorial.firebaseio.com",
+    "project_id": "rewardedadstutorial",
+    "storage_bucket": "rewardedadstutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081477046632:android:7168a633a7dbaef7",
+        "android_client_info": {
+          "package_name": "com.tuts.prakash.rewardedadsfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081477046632-n07k3vjpjnrj1nn488ijhmbust9846nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGj5ZHSirfE76RrGG1o8B1LL2ZD-GqMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
